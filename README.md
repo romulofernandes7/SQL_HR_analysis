@@ -1,4 +1,4 @@
-# SQL_RHanalysis[![Author](https://img.shields.io/badge/Author-R%C3%B4mulo%20Fernandes-blue)](https://www.linkedin.com/in/romulofernandes3/) [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-orange)](http://perso.crans.org/besson/LICENSE.html)
+[![Author](https://img.shields.io/badge/Author-R%C3%B4mulo%20Fernandes-blue)](https://www.linkedin.com/in/romulofernandes3/) [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-orange)](http://perso.crans.org/besson/LICENSE.html)
 # Análise de dados de RH — Storytelling e SQL
 
 ## Objetivo do Trabalho
